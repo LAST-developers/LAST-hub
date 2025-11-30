@@ -31,7 +31,7 @@
   },
   {
     "name": "Observatory API",
-    "path": "/observatory-safety-api/",
+    "path": "/observatory-safety-api/docs",
     "description": "Sensor data & endpoints",
     "icon": "https://img.icons8.com/color/96/000000/api.png"
   },
