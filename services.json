@@ -34,5 +34,10 @@
     "path": "/observatory-safety-api/",
     "description": "Sensor data & endpoints",
     "icon": "https://img.icons8.com/color/96/000000/api.png"
+  },
+  {
+    "name": "CAST",
+    "path": "http://132.77.38.251",
+    "description": "CAST"
   }
 ]
