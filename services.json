@@ -31,8 +31,7 @@
   },
   {
     "name": "CAST",
-    "path": "http://ap-ag-ofek-pc/CAST",
-    "description": "CAST",
-    "icon": "http://ap-ag-ofek-pc/static/tom_common/img/logo-color-cropped.png"
+    "path": "http://ap-ag-ofek-pc/",
+    "description": "CAST"
   }
 ]
